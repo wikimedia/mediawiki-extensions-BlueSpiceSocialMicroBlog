@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Patric Wirth <wirth@hallowelt.com>"
+		]
+	},
+	"bs-socialmicroblog-desc": "BSSocial",
+	"bs-socialmicroblog-type": "Microblog",
+	"bs-socialmicroblog-pref-notification-create": "Microblog",
+	"bs-socialmicroblog-notification-create-content-plain": "$6 hat einen neuen Microblog-Beitrag erstellt:\n$8",
+	"bs-socialmicroblog-notification-create-content-html": "<a href='$8'>$6</a> hat einen neuen <a href='$10'>Microblog-Beitrag</a> erstellt.",
+	"bs-socialmicroblog-notification-create-subject": "Neuer Microblog Beitrag"
+}
