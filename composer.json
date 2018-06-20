@@ -2,7 +2,7 @@
 	"name": "mediawiki/blue-spice-social-micro-blog",
 	"type": "mediawiki-extension",
 	"description": "Micro blog functionality for social",
-	"license": "GPL-3.0",
+	"license": "GPL-3.0-only",
 	"require": {
 		"composer/installers": "~1.0"
 	}
