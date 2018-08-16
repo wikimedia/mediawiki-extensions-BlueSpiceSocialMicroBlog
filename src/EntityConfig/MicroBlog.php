@@ -69,4 +69,8 @@ class MicroBlog extends Text {
 			'create' => 'socialentity-microblog-create',
 		];
 	}
+
+	protected function get_ExtendedSearchListable() {
+		return true;
+	}
 }
