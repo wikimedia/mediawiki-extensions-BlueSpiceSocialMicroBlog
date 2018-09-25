@@ -6,5 +6,8 @@
 	},
 	"bs-socialmicroblog-desc": "Micro blog functionality for BlueSpiceSocial",
 	"bs-socialmicroblog-type": "Microblog",
-	"bs-socialmicroblog-pref-notification-create": "Microblog"
+	"bs-socialmicroblog-pref-notification-create": "Microblog",
+	"bs-socialmicroblog-notification-create-content-plain": "$6 has created a new Microblog post:\n$8",
+	"bs-socialmicroblog-notification-create-content-html": "<a href='$8'>$6</a> has created a new <a href='$10'>Microblog post</a>.",
+	"bs-socialmicroblog-notification-create-subject": "New Microblog post"
 }
