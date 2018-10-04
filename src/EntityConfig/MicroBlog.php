@@ -73,4 +73,8 @@ class MicroBlog extends Text {
 	protected function get_ExtendedSearchListable() {
 		return true;
 	}
+
+	protected function get_EntityListSpecialTimelineTypeSelected() {
+		return true;
+	}
 }
