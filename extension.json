@@ -31,15 +31,15 @@
 	},
 	"ResourceModules": {
 		"ext.bluespice.socialmicroblog.styles": {
-			"targets": [ "desktop", "mobile" ],
-			"styles": "bluespice.socialmicroblog.css"
+			"styles": [
+				"bluespice.socialmicroblog.css"
+			]
 		},
 		"ext.bluespice.social.entity.microblog": {
 			"dependencies": [
 				"ext.bluespice.social",
 				"ext.bluespice.social.entity"
 			],
-			"targets": [ "desktop", "mobile" ],
 			"scripts": [
 				"entities/bluespice.social.Entity.MicroBlog.js"
 			]
@@ -49,6 +49,5 @@
 		"localBasePath": "resources",
 		"remoteExtPath": "BlueSpiceSocialMicroBlog/resources"
 	},
-	"Hooks": {},
 	"manifest_version": 2
 }
