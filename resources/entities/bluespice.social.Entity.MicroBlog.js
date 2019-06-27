@@ -5,7 +5,7 @@
  * @package    BluespiceSocial
  * @subpackage BSSocialMicroBlog
  * @copyright  Copyright (C) 2017 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v2 or later
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  */
 
 bs.social.EntityMicroBlog = function( $el, type, data ) {
