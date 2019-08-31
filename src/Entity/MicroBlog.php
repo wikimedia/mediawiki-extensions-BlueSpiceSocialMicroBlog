@@ -30,6 +30,7 @@
  */
 
 namespace BlueSpice\Social\MicroBlog\Entity;
+
 use BlueSpice\Social\Entity\Text;
 
 /**

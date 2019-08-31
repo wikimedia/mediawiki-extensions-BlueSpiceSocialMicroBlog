@@ -31,6 +31,7 @@
  */
 
 namespace BlueSpice\Social\MicroBlog\EntityConfig;
+
 use BlueSpice\Social\EntityConfig\Text;
 
 /**
@@ -39,41 +40,83 @@ use BlueSpice\Social\EntityConfig\Text;
  * @subpackage BSSocial
  */
 class MicroBlog extends Text {
+	/**
+	 *
+	 * @return array
+	 */
 	public function addGetterDefaults() {
-		return array();
+		return [];
 	}
+
+	/**
+	 *
+	 * @return string
+	 */
 	protected function get_EntityClass() {
 		return "\\BlueSpice\\Social\\MicroBlog\\Entity\\MicroBlog";
 	}
+
+	/**
+	 *
+	 * @return array
+	 */
 	protected function get_ModuleScripts() {
 		return array_merge( parent::get_ModuleScripts(), [
 			'ext.bluespice.social.entity.text',
 			'ext.bluespice.social.entity.microblog',
-		]);
+		] );
 	}
+
+	/**
+	 *
+	 * @return array
+	 */
 	protected function get_ModuleStyles() {
 		return array_merge( parent::get_ModuleStyles(), [
 			'ext.bluespice.socialmicroblog.styles'
-		]);
+		] );
 	}
+
+	/**
+	 *
+	 * @return string
+	 */
 	protected function get_TypeMessageKey() {
 		return 'bs-socialmicroblog-type';
 	}
+
+	/**
+	 *
+	 * @return array
+	 */
 	protected function get_Notifications() {
 		return [
 			'socialentity-microblog-create' => "\\BlueSpice\\Social\\MicroBlog\\NotificationConfig\\Create",
 		];
 	}
+
+	/**
+	 *
+	 * @return array
+	 */
 	protected function get_NotificationActions() {
 		return [
 			'create' => 'socialentity-microblog-create',
 		];
 	}
 
+	/**
+	 *
+	 * @return true
+	 */
 	protected function get_ExtendedSearchListable() {
 		return true;
 	}
 
+	/**
+	 *
+	 * @return true
+	 */
 	protected function get_EntityListSpecialTimelineTypeSelected() {
 		return true;
 	}
