@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
-	"bs-socialmicroblog-desc": "Fonctionnalité de microblog pour BlueSpiceSocial",
+	"bs-socialmicroblog-desc": "Fonctionnalité de microblog pour ''BlueSpiceSocial''",
 	"bs-socialmicroblog-type": "Microblog"
 }
