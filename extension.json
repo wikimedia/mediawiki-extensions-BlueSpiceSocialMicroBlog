@@ -25,6 +25,26 @@
 			},
 			"EntityRegistry": {
 				"microblog": "\\BlueSpice\\Social\\MicroBlog\\EntityConfig\\MicroBlog"
+			},
+			"PermissionRegistry": {
+				"social-microblog": {
+					"type": "global",
+					"roles": [
+						"commenter",
+						"editor",
+						"admin",
+						"maintenanceadmin"
+					]
+				},
+				"social-microblog-comment": {
+					"type": "global",
+					"roles": [
+						"commenter",
+						"editor",
+						"admin",
+						"maintenanceadmin"
+					]
+				}
 			}
 		}
 	},
@@ -36,6 +56,24 @@
 	"AutoloadNamespaces": {
 		"BlueSpice\\Social\\MicroBlog\\": "src/"
 	},
+	"GroupPermissions": {
+		"*": {
+			"social-microblog": false,
+			"social-microblog-comment": false
+		},
+		"user": {
+			"social-microblog": true,
+			"social-microblog-comment": true
+		},
+		"sysop": {
+			"social-microblog": true,
+			"social-microblog-comment": true
+		}
+	},
+	"AvailableRights": [
+		"social-microblog",
+		"social-microblog-comment"
+	],
 	"ResourceModules": {
 		"ext.bluespice.socialmicroblog.styles": {
 			"styles": [
