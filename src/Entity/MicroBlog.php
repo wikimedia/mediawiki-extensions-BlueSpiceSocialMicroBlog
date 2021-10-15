@@ -39,5 +39,5 @@ use BlueSpice\Social\Entity\Text;
  * @subpackage BSSocialMicroBlog
  */
 class MicroBlog extends Text {
-	const TYPE = 'microblog';
+	public const TYPE = 'microblog';
 }
