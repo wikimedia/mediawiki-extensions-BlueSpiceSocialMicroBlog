@@ -5,5 +5,9 @@
 		]
 	},
 	"bs-socialmicroblog-desc": "Functionalitate microblog pro BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "crear e modificar microblogs",
+	"action-social-microblog-comment": "commentar sur microblogs",
+	"right-social-microblog": "Crear e modificar microblogs",
+	"right-social-microblog-comment": "Commentar sur microblogs"
 }

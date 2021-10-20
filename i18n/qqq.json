@@ -7,7 +7,7 @@
 	},
 	"bs-socialmicroblog-desc": "{{desc|name=BlueSpiceSocialMicroBlog}}",
 	"bs-socialmicroblog-type": "Label for option \"microblog\" in entry field \"type\"",
-	"action-social-microblog": "{{doc-action|action-social-microblog}}",
+	"action-social-microblog": "{{doc-action|social-microblog}}",
 	"action-social-microblog-comment": "{{doc-action|social-microblog-comment}}",
 	"right-social-microblog": "{{doc-right|social-microblog}}",
 	"right-social-microblog-comment": "{{doc-right|social-microblog-comment}}"

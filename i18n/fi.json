@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"MITO"
+		]
+	},
+	"bs-socialmicroblog-type": "Mikroblogi",
+	"action-social-microblog": "luoda ja muokata mikroblogeja",
+	"right-social-microblog-comment": "Kommentoida mikroblogeja"
+}
