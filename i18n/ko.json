@@ -4,5 +4,9 @@
 			"Ykhwong"
 		]
 	},
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "마이크로블로그에 의견을 달",
+	"action-social-microblog-comment": "마이크로블로그에 의견을 달",
+	"right-social-microblog": "마이크로블로그 만들기 및 편집",
+	"right-social-microblog-comment": "마이크로블로그에 의견 달기"
 }

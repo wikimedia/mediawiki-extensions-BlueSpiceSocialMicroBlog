@@ -5,5 +5,9 @@
 		]
 	},
 	"bs-socialmicroblog-desc": "Funzione Microblog pe BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "ccrèje e cange le microblog",
+	"action-social-microblog-comment": "commende sus a le microblog",
+	"right-social-microblog": "Ccrèje e cange le microblog",
+	"right-social-microblog-comment": "Commende sus a le microblog"
 }
