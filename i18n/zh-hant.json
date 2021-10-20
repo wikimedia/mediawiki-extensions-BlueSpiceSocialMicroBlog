@@ -5,5 +5,9 @@
 		]
 	},
 	"bs-socialmicroblog-desc": "用於 BlueSpiceSocial 的微部落格功能",
-	"bs-socialmicroblog-type": "微部落格"
+	"bs-socialmicroblog-type": "微部落格",
+	"action-social-microblog": "建立與編輯微部落格",
+	"action-social-microblog-comment": "在微部落格上評論",
+	"right-social-microblog": "建立與編輯微部落格",
+	"right-social-microblog-comment": "在微部落格上評論"
 }

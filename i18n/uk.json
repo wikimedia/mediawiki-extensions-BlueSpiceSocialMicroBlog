@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"DDPAT",
 			"Movses"
 		]
 	},
 	"bs-socialmicroblog-desc": "Функціонал мікроблогів для BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Мікроблог"
+	"bs-socialmicroblog-type": "Мікроблог",
+	"action-social-microblog": "створювати та редагувати мікроблоги",
+	"action-social-microblog-comment": "коментувати мікроблоги",
+	"right-social-microblog": "Створювати та редагувати мікроблоги",
+	"right-social-microblog-comment": "Коментувати мікроблоги"
 }
