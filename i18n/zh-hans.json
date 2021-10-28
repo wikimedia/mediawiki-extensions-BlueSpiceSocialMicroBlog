@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"列维劳德"
+		]
+	},
+	"bs-socialmicroblog-desc": "BlueSpiceSocial 微博功能",
+	"bs-socialmicroblog-type": "微博",
+	"action-social-microblog": "创建或编辑微博",
+	"action-social-microblog-comment": "评论微博",
+	"right-social-microblog": "创建或编辑微博",
+	"right-social-microblog-comment": "评论微博"
+}
