@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mglaser",
 			"Patric Wirth"
 		]
 	},
 	"bs-socialmicroblog-desc": "Mikroblog-Funktionalität für BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "Microblogs zu erstellen und zu bearbeiten",
+	"action-social-microblog-comment": "Microblogs zu kommentieren",
+	"right-social-microblog": "Microblogs erstellen und bearbeiten",
+	"right-social-microblog-comment": "Microblogs kommentieren"
 }
