@@ -4,5 +4,7 @@
 			"Romaine"
 		]
 	},
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog-comment": "reageren op microblogs",
+	"right-social-microblog-comment": "Reageren op microblogs"
 }

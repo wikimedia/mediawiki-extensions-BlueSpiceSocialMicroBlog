@@ -7,8 +7,8 @@
 	},
 	"bs-socialmicroblog-desc": "Fonctionnalité de microblog pour ''BlueSpiceSocial''",
 	"bs-socialmicroblog-type": "Microblog",
-	"action-social-microblog": "créer et modifier les microblogs",
-	"action-social-microblog-comment": "commentaire sur les microblogs",
-	"right-social-microblog": "Créer et modifier les microblogs",
-	"right-social-microblog-comment": "Commentaire sur les microblogs"
+	"action-social-microblog": "créer et modifier les microblogues",
+	"action-social-microblog-comment": "commentaire sur les microblogues",
+	"right-social-microblog": "Créer et modifier les microblogues",
+	"right-social-microblog-comment": "Commentaire sur les microblogues"
 }

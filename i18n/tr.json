@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Can"
 		]
 	},
 	"bs-socialmicroblog-desc": "BlueSpiceSocial için Microblog işlevselliği",
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "mikroblog oluştur ve düzenle",
+	"action-social-microblog-comment": "mikroblogda yorumla",
+	"right-social-microblog": "Mikroblog oluştur ve düzenle",
+	"right-social-microblog-comment": "Mikroblogda yorumla"
 }
