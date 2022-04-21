@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"DiegoAmbrocio"
 		]
 	},
 	"bs-socialmicroblog-desc": "Funcionalidad de microblogueo para BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "crear y editar microblogs",
+	"action-social-microblog-comment": "comentar los microblogs",
+	"right-social-microblog": "Crear y editar microblogs",
+	"right-social-microblog-comment": "Comentarios en los microblogs"
 }
