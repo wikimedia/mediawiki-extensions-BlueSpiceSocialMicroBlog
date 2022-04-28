@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mansil alfalb"
+			"Mansil alfalb",
+			"Hamilton Abreu"
 		]
 	},
-	"bs-socialmicroblog-desc": "Funcionalidade de microblogue para BlueSpiceSocial",
-	"bs-socialmicroblog-type": "Microblogue"
+	"bs-socialmicroblog-desc": "Funcionalidade de microblogues para BlueSpiceSocial",
+	"bs-socialmicroblog-type": "Microblogue",
+	"action-social-microblog": "criar e editar microblogues",
+	"action-social-microblog-comment": "comentar microblogues",
+	"right-social-microblog": "Criar e editar microblogues",
+	"right-social-microblog-comment": "Comentar microblogues"
 }
