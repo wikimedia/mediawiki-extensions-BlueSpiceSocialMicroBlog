@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Romaine"
+			"Romaine",
+			"McDutchie"
 		]
 	},
+	"bs-socialmicroblog-desc": "Microblog-functionaliteit voor BlueSpiceSocial",
 	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "microblogs aan te maken en te bewerken",
 	"action-social-microblog-comment": "reageren op microblogs",
+	"right-social-microblog": "Microblogs aanmaken en bewerken",
 	"right-social-microblog-comment": "Reageren op microblogs"
 }
