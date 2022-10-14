@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"bs-socialmicroblog-desc": "פונקציונליות מיקרובלוג עבור BlueSpiceSocial",
+	"bs-socialmicroblog-type": "מיקרובלוג",
+	"action-social-microblog": "ליצור ולערוך מיקרובלוגים",
+	"action-social-microblog-comment": "להגיב למיקרובלוגים",
+	"right-social-microblog": "יצירה ועריכה של מיקרובלוגים",
+	"right-social-microblog-comment": "תגובה למיקרובלוגים"
+}
