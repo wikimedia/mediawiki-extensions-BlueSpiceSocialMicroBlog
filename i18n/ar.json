@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
 	"bs-socialmicroblog-desc": "وظيفة تدوين مصغر لـBlueSpiceSocial",
-	"bs-socialmicroblog-type": "تدوين مصغر"
+	"bs-socialmicroblog-type": "تدوين مصغر",
+	"action-social-microblog": "إنشاء وتحرير المدونات الصغيرة",
+	"action-social-microblog-comment": "التعليق على المدونات الصغيرة",
+	"right-social-microblog": "إنشاء وتحرير المدونات الصغيرة",
+	"right-social-microblog-comment": "التعليق على المدونات الصغيرة"
 }
