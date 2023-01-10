@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"bs-socialmicroblog-desc": "Funkcionalnost mikroblogov za BlueSpiceSocial",
+	"bs-socialmicroblog-type": "Mikroblog",
+	"action-social-microblog": "ustvarjanje in urejanje mikroblogov",
+	"action-social-microblog-comment": "komentiranje mikroblogov",
+	"right-social-microblog": "Ustvarjanje in urejanje mikroblogov",
+	"right-social-microblog-comment": "Komentiranje mikroblogov"
+}
