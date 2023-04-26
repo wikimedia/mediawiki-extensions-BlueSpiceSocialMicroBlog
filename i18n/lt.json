@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"bs-socialmicroblog-desc": "Mikrotinklaraščio funkcijos, skirtos BlueSpiceSocial",
+	"bs-socialmicroblog-type": "Mikrotinklaraštis",
+	"action-social-microblog": "kurti ir redaguoti mikrotinklaraščius",
+	"action-social-microblog-comment": "komentuoti mikrotinklaraščiuose",
+	"right-social-microblog": "Kurti ir redaguoti mikrotinklaraščius",
+	"right-social-microblog-comment": "Komentuoti mikrotinklaraščiuose"
+}
