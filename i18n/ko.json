@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"Tensama0415"
 		]
 	},
+	"bs-socialmicroblog-desc": "BlueSpiceSocial의 Microblog 기능",
 	"bs-socialmicroblog-type": "Microblog",
 	"action-social-microblog": "마이크로블로그에 의견을 달",
 	"action-social-microblog-comment": "마이크로블로그에 의견을 달",
