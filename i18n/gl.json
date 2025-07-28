@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"bs-socialmicroblog-desc": "Funcionalidade de microblog para BlueSpiceSocial",
+	"bs-socialmicroblog-type": "Microblog",
+	"action-social-microblog": "crear e editar microblogs",
+	"action-social-microblog-comment": "comentar nos microblogs",
+	"right-social-microblog": "Crear e editar microblogs",
+	"right-social-microblog-comment": "Comentar nos microblogs"
+}
