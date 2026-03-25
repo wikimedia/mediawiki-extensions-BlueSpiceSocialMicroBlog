@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
-	"bs-socialmicroblog-type": "Microblog"
+	"bs-socialmicroblog-type": "Mikroblog",
+	"bs-socialmicroblog-desc": "Mikroblog-Funktionalitéit fir BlueSpiceSocial",
+	"action-social-microblog": "Mikrobloggen unzeleeën an z'änneren",
+	"action-social-microblog-comment": "Mikrobloggen ze kommentéieren",
+	"right-social-microblog": "Mikrobloggen uleeën an änneren",
+	"right-social-microblog-comment": "Mikroblogge kommentéieren"
 }
