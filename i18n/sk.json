@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"bs-socialmicroblog-desc": "Funkcia mikroblogu pre BlueSpiceSocial",
+	"bs-socialmicroblog-type": "Mikroblog",
+	"action-social-microblog": "vytvárať a upravovať mikroblogy",
+	"action-social-microblog-comment": "komentovať mikroblogy",
+	"right-social-microblog": "Vytvárať a upravovať mikroblogy",
+	"right-social-microblog-comment": "Komentovať mikroblogy"
+}
