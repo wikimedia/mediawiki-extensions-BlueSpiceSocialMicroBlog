@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"bs-socialmicroblog-desc": "BlueSpiceSocial لپاره د مايکروبلاگ کړنچارولي",
+	"bs-socialmicroblog-type": "مايکروبلاگ",
+	"action-social-microblog": "مايکروبلاگونه جوړول او سمول",
+	"action-social-microblog-comment": "مايکروبلاگونو کې څرگندونه کول",
+	"right-social-microblog": "مايکروبلاگونه جوړول او سمول",
+	"right-social-microblog-comment": "مايکروبلاگونو کې څرگندونه کول"
+}
